@@ -3,3 +3,5 @@ El programa es un cotizador para una empresa de seguros. Comienza solicitando el
 Cada dato ingresado afecta al recargo que se añadirá al precio base. Los factores que influyen son la edad, la edad del cónyuge (si está casado), la cantidad de hijos (si los tiene), la cantidad de propiedades (si las tiene) y, por último, el salario del asegurado.
 
 Considero que se puede mejorar el programa al calcular el recargo en función del rango de ingresos del asegurado en lugar de un dato único para el salario.
+
+Byron Emanuel Monzón Hernandez - 24004317
